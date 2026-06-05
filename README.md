@@ -122,3 +122,11 @@ Part of the **SuperInstance** ternary computing crate family:
 ## License
 
 MIT
+
+## See Also
+- **ternary-ga** — related
+- **ternary-fitness** — related
+- **ternary-genome** — related
+- **ternary-popgen** — related
+- **ternary-swarm** — related
+
